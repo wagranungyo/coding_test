@@ -57,6 +57,6 @@ def solution(participant, completion):
    return list(answer.keys())[0]
 
 #단 두 줄!!!!
-
+#문제가 participant와 completion의 차이가 단 1명의 차이였기 때문에 마지막에 list의 [0]만 뽑아도 답이 나올 수 있었던 것!
 
 
