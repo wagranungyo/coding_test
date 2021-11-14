@@ -18,4 +18,4 @@ def solution(array, commands):
 def solution(array, commands):
     return list(map(lambda x:sorted(array[x[0]-1:x[1]])[x[2]-1], commands))
 
-#기본적으로 for문은 그냥 리스트 컴프리핸션을 쓰는 듯    
+#기본적으로 for문은 리스트 컴프리핸션쓰기!
