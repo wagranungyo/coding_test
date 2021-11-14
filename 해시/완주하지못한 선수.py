@@ -47,7 +47,7 @@ def solution(participant, completion):
         if i[0]!=i[1]:
             return i[0]
 
-#해결했으나 조금 위험함 
+#해결했으나 정석적인 풀이가 아님
 
 
 #다른 사람의 풀이 카운터에서 객체끼리는 뺄셈이 가능하다. 
